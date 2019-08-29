@@ -1,3 +1,5 @@
 **Variability**
 
-Social media pages can be changed by users
+* Social media pages can be changed by users
+* Font can be chosen or manipulated to match desired color and shape
+
